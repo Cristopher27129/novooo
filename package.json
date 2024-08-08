@@ -1,0 +1,22 @@
+{
+  "name": "packagenameado",
+  "version": "1.0.0",
+  "description": "description",
+  "main": "App.js",
+  "scripts": {
+    "test": "teste"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cristopher27129/novooo.git"
+  },
+  "keywords": [
+    "nenhuma"
+  ],
+  "author": "eu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cristopher27129/novooo/issues"
+  },
+  "homepage": "https://github.com/Cristopher27129/novooo#readme"
+}
